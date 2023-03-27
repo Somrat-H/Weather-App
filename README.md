@@ -1,16 +1,11 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+Integrated openwatherApi with this app. Get all data from this api.
+Mainly I had covered Current Weather, Forecast and Air Quality.
 
-## Getting Started
+Full App Delevoped by Flutter.
 
-This project is a starting point for a Flutter application.
+Here Video of this App:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
