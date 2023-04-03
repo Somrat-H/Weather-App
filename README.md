@@ -7,7 +7,8 @@ Full App Delevoped by Flutter.
 
 Here's, photo of this App:
 
-<img width="640" alt="WeatherAppImg" src="https://user-images.githubusercontent.com/88571561/229536921-590180d7-9cdd-4e50-bded-49930b03deb8.png">
+<img width="407" alt="WeatherAppImg2" src="https://user-images.githubusercontent.com/88571561/229537559-ebf7e924-70c1-4dce-8cb8-bf5f7dbdb31c.png">
+
 
 
 
